@@ -1,0 +1,6 @@
+azdnorx.py        # Main Gradio app
+Dockerfile        # Docker config
+requirements.txt  # Python dependencies
+.gitignore        # Files to exclude
+LICENSE           # MIT license
+README.md         # You're reading it :)
