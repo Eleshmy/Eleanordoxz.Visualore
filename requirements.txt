@@ -1,0 +1,7 @@
+torch
+diffusers
+pillow
+numpy
+imageio
+gradio
+Requires Docker (19.03+) with NVIDIA GPU support and the NVIDIA Container Toolkit installed.
